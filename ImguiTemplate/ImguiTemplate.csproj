@@ -35,7 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GUI\GUIStyle.cs" />
-    <Compile Include="GUI\Menu\Menu.cs" />
+    <Compile Include="GUI\Menu.cs" />
     <Compile Include="GUI\Menu\WorldHacks.cs" />
     <Compile Include="GUI\Rendering.cs" />
     <Compile Include="GUI\Menu\Exploits.cs" />
